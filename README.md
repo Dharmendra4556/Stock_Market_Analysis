@@ -9,9 +9,9 @@ Stock market analysis on NSE Bulk Deals
 ## Tools Required:-
 	        Jupyter Notebook, Numpy, Pandas, Matplotlib and Seaborn.
 ## Responsibilities:-
-	Responsible for data mining or extracting usable data from valuable data sources and undertake preprocessing of structured and unstructured data by enhancing data collection procedures to include all relevant information for developing analytic systems.
-	 Processed, cleansed, and validated the integrity of data for analysis.
-	Analysed large and diverse datasets to find patterns and solutions.
-	Developed and maintained robust data processing.
+1. Responsible for data mining or extracting usable data from valuable data sources and undertake preprocessing of structured and unstructured data by enhancing data collection procedures to include all relevant information for developing analytic systems.
+2. Processed, cleansed, and validated the integrity of data for analysis.
+3. Analysed large and diverse datasets to find patterns and solutions.
+4. Developed and maintained robust data processing.
 
 
